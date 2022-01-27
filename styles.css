@@ -1,0 +1,16 @@
+#container > button {
+  font-size: 20px;
+  padding: 14px;
+}
+
+/* #container > button {
+  cursor: pointer;
+}
+
+#container > button {
+  background-color: green;
+}
+
+.disable {
+  cursor: not-allowed;
+} */
